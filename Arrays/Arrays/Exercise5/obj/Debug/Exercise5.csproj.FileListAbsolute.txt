@@ -1,0 +1,6 @@
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise5\obj\Debug\Exercise5.pdb
