@@ -1,0 +1,7 @@
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Excersise8\bin\Debug\Excersise8.exe.config
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Excersise8\bin\Debug\Excersise8.exe
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Excersise8\bin\Debug\Excersise8.pdb
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Excersise8\obj\Debug\Excersise8.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Excersise8\obj\Debug\Excersise8.exe
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Excersise8\obj\Debug\Excersise8.pdb
+C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Excersise8\obj\Debug\Excersise8.csprojAssemblyReference.cache
