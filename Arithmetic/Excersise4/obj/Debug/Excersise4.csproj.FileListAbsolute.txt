@@ -1,0 +1,6 @@
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Excersise4\bin\Debug\Excersise4.exe.config
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Excersise4\bin\Debug\Excersise4.exe
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Excersise4\bin\Debug\Excersise4.pdb
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Excersise4\obj\Debug\Excersise4.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Excersise4\obj\Debug\Excersise4.exe
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Excersise4\obj\Debug\Excersise4.pdb

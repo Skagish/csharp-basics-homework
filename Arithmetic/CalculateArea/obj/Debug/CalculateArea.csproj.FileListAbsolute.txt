@@ -1,0 +1,7 @@
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\CalculateArea\obj\Debug\CalculateArea.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\CalculateArea\obj\Debug\CalculateArea.pdb

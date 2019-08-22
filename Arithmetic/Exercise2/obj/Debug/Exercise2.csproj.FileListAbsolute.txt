@@ -1,0 +1,2 @@
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\csharp-basics-homework\Arithmetic\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
