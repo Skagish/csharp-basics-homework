@@ -23,7 +23,7 @@ namespace CalculateArea
                     calculateCircleArea();
                     Console.ReadKey();
                 }
-                else if (choice == 1)
+                else if (choice == 2)
                 {
                     calculateRectangleArea();
                     Console.ReadKey();
@@ -80,7 +80,7 @@ namespace CalculateArea
             //todo
             var keyboard = Console.ReadLine();
 
-            decimal.TryParse(keyboard, out var radius);
+            double.TryParse(keyboard, out var radius);
 
             // Display output
             Console.WriteLine("The circle's area is "
@@ -89,48 +89,46 @@ namespace CalculateArea
 
         public static void calculateRectangleArea()
         {
-            decimal length = 0;
-            decimal width = 0;
+            double length = 0;
+            double width = 0;
 
             // Get input from user
-            var keyboard = Console.ReadKey();
 
             // Get length
             Console.WriteLine("Enter length? ");
             //todo
-            //length = keyboard.nextDouble();
+            length = Convert.ToDouble(Console.ReadLine());
 
             // Get width
             Console.WriteLine("Enter width? ");
             //todo
-            //width = keyboard.nextDouble();
+            width = Convert.ToDouble(Console.ReadLine());
 
             // Display output
             Console.WriteLine("The rectangle's area is "
-                    + Geometry.areaOfTriangle(length, width));
+                    + Geometry.areaOfRectangle(length, width));
         }
 
         public static void calculateTriangleArea()
         {
-            decimal ground = 0;
-            decimal height = 0;
+            double ground = 0;
+            double h = 0;
 
             // Get input from user
-            var keyboard = Console.ReadKey();
 
             // Get the base
             Console.WriteLine("Enter length of the triangle's base? ");
             //todo
-            //read key value
+            ground = Convert.ToDouble(Console.ReadLine());
 
             // Get the height
             Console.WriteLine("Enter triangle's height? ");
             //todo
-            //read key value
+            h = Convert.ToDouble(Console.ReadLine());
 
             // Display the triangle's area.
             Console.WriteLine("The triangle's area is "
-                    + Geometry.areaOfRectangle(ground, height));
+                    + Geometry.areaOfTriangle(ground, h));
         }
     }
 }
