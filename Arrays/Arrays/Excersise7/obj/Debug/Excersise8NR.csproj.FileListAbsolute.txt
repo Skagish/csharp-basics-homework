@@ -1,7 +1,0 @@
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Excersise7\bin\Debug\Excersise7.exe.config
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Excersise7\bin\Debug\Excersise7.exe
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Excersise7\bin\Debug\Excersise7.pdb
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Excersise7\obj\Debug\Excersise8NR.csprojAssemblyReference.cache
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Excersise7\obj\Debug\Excersise8NR.csproj.CoreCompileInputs.cache
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Excersise7\obj\Debug\Excersise7.exe
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Excersise7\obj\Debug\Excersise7.pdb

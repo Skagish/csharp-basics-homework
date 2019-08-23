@@ -1,7 +1,0 @@
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise3\bin\Debug\Exercise3.exe.config
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise3\bin\Debug\Exercise3.exe
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise3\bin\Debug\Exercise3.pdb
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise3\obj\Debug\Exercise3.exe
-C:\Users\Leo\Desktop\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise3\obj\Debug\Exercise3.pdb
