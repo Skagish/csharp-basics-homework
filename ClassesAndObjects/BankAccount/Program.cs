@@ -10,12 +10,9 @@ namespace BankAccount
     {
         static void Main(string[] args)
         {
-
-        }
-
-        public string ShowUserNameAndBalance()
-        {
-            return 
+            var benben = new Account("Benson", -17.50);
+            benben.ShowUserNameAndBalance();
+            Console.ReadLine();
         }
     }
 }

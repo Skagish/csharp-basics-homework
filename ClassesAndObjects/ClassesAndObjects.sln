@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excersise5(Dates)", "Excers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excersise7(DogTest)", "Excersise7(Dogs)\Excersise7(DogTest).csproj", "{1474B507-4D00-4719-A282-561D6DD18555}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excersise8(Savings Account)NR", "Excersise8(Savings Account)\Excersise8(Savings Account)NR.csproj", "{AB4A058A-1233-4B6D-9B43-6B58DBDCC5CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excersise8(Savings Account)", "Excersise8(Savings Account)\Excersise8(Savings Account).csproj", "{AB4A058A-1233-4B6D-9B43-6B58DBDCC5CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
